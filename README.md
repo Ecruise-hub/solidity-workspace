@@ -1,6 +1,6 @@
 # Simple Storage
 
-My first Solidity smart contract built while learning
+My first Solidity smart contract deployed while learning
 smart contract development.
 
 ## What I learned
